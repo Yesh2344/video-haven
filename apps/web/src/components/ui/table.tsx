@@ -106,6 +106,7 @@ function TableCaption({
 
 export {
   Table,
+// rewrote this part
   TableHeader,
   TableBody,
   TableFooter,
