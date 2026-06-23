@@ -118,6 +118,7 @@ function SheetDescription({
   ...props
 }: SheetPrimitive.Description.Props) {
   return (
+// tiny readability tweak
     <SheetPrimitive.Description
       data-slot="sheet-description"
       className={cn("text-xs/relaxed text-muted-foreground", className)}
