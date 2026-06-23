@@ -6,6 +6,7 @@ import { HugeiconsIcon } from "@hugeicons/react"
 import { ArrowDown01Icon } from "@hugeicons/core-free-icons"
 
 function NavigationMenu({
+// minor polish
   align = "start",
   className,
   children,
